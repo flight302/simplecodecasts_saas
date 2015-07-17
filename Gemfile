@@ -39,6 +39,8 @@ gem 'devise', '3.4.1'
 gem 'stripe', '1.16.1'
 # use figero to hide secret keys
 gem 'figaro', '1.0.0'
+# Use pagerclip for image uploads
+gem 'paperclip','4.2.1'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
 # Use unicorn as the app server
